@@ -6,4 +6,4 @@ There are 2495 posts, 6197 comments, 231 tags, 26 categories, and 10 pages worth
 
 *Note:* There are ~1.6 GB of images (courtesy of [Unsplash](https://unsplash.com)) attached to these posts. It's a very good idea to import everything _but_ the media in order to avoid timeouts or errors with the WordPress Importer.
 
-A [gzipped copy of `wp-content/uploads/`](https://dummy.pressops.co/get/dummy.uploads.tar.gz) is available for download so you can copy over the files manually.
+A [gzipped copy of `wp-content/uploads/`](https://dummy.pressops.co/get/dummy.uploads.tar.gz) is available for download so you can copy the files over manually.
